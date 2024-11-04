@@ -2,3 +2,5 @@
 <h4>A tool for fiction authors to organise, manage, and expand their complex writing projects.</h4>
 
 <h6>Fitheach is an organisational tool tailored specifically for fiction writers, designed to help them organise, analyse, and expand on their writing projects. It provides features to consolidate text from multiple documents, track project progress, and explore story elements, supporting writers in creating cohesive narratives and managing complex storylines. Fitheach makes it easy to gather insights, streamline content, and stay organised, offering a centralised space to develop, refine, and expand creative work.</h6>
+
+<h6>NOTE: I am currently only in the early stages of this project. I will remove this note when the project is complete.</h6>
